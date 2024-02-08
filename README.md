@@ -1,1 +1,1 @@
-# valentines-app
+# valentine-silly-app
